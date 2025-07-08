@@ -11,9 +11,10 @@ This repository contains the complete implementation and report for the course p
 
 ```
 Project Root/
-├── Program/             # Python programs used to produce results
-├── Report/              # PDF report, figures, and LaTeX ZIP
-└── README.md            # Project documentation
+├── Program/                                   # Python programs used to produce results
+├── Report/                                    # PDF report, figures, and LaTeX ZIP
+├──Crude Oil WTI Futures Historical Data.csv   # Dataset
+└── README.md                                  # Project documentation
 ```
 
 ---
